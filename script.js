@@ -77,7 +77,6 @@ decreaseBtn.addEventListener('click', () => {
     if(size < 5) {
         size = 5
     }
-
     updateSizeOnScreen()
 })
 
